@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Semar TV Online Streaming</string>
+    <string name="app_name">SemarTV</string>
+    <string name="identity">Semar TV Online Streaming</string>
+    <string name="app_about">Semar TV</string>
+<string name="str_exit">Exit</string>
+<string name="app_about_message">Live Streaming Semar TV FKIP UNS</string>
+<string name="str_ok">OK</string>
+<string name="app_exit">Exit</string>
+<string name="app_exit_message">Are You Sure You Want to Exit?</string>
+<string name="str_no">No</string>
+
+</resources>
